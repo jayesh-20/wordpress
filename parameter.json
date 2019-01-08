@@ -1,7 +1,6 @@
 [
 	{
-		"ParameterKey": "SecurityGroupDescription",
-		"ParameterValue": "demodescription"
+		"ParameterKey": "SecurityGroupDescription","ParameterValue": "demodescription"
 	},
 	{
 		"ParameterKey": "SecurityGroupPort",
