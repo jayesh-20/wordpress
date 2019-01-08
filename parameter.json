@@ -1,0 +1,34 @@
+[
+	{
+		"ParameterKey": "SecurityGroupDescription",
+		"ParameterValue": "demodescription"
+	},
+	{
+		"ParameterKey": "SecurityGroupPort",
+		"ParameterValue": "1500"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t1.micro"
+	},
+	{
+		"ParameterKey": "DBPwd",
+		"ParameterValue": "demo@1234"
+	},
+	{
+		"ParameterKey": "KeyName",
+		"ParameterValue": "demo"
+	},
+	{
+		"ParameterKey": "MyVPC",
+		"ParameterValue": "vpc-49468933"
+	},
+	{
+		"ParameterKey": "MySubnetIDs",
+		"ParameterValue": "subnet-257bbb1b"
+	},
+	{
+		"ParameterKey": "MyVPC",
+		"ParameterValue": "vpc-49468933"
+	}
+]
