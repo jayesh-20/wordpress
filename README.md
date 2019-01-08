@@ -1,0 +1,2 @@
+# wordpress
+wordpress cloudformation template
